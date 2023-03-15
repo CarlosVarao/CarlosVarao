@@ -13,6 +13,6 @@
 <img align="center" alt="Carlos-Ts" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> - Type Script
 <img align="center" alt="Carlos-React" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> - React
 <img align="center" alt="Carlos-Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> - Python
-</div><br><br><br>
+</div><br><br>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
