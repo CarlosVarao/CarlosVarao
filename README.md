@@ -2,6 +2,10 @@
   <h1 align="center"> Hiii, how are you? My name is Carlos Varão and I'm a Front End JR programmer 👨‍💻</h1><br>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+LUIZ+FELIPE+VIANA;I'M+DEVELOPER+FRONT-END)](https://git.io/typing-svg)
+
+
+
 <div>
   <p align="center"><b>KNOWLEDGE IN LANGUAGES</b></p>
 </div>
