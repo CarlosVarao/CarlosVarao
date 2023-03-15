@@ -4,7 +4,7 @@
 <div align="center">
   </div>
 <div align=center style="display: inline_block">
-<h1 align="center">Conhecimentos nas linguagens</h1>
+<h1 align="center">CONHECIMENTOS NAS LINGUAGENS</h1>
 
 <div style="display: inline_block">
 <img align="center" alt="Carlos-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> - Html
