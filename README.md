@@ -1,4 +1,4 @@
-#   Opa, tudo bem ? Me chamo Carlos Varão e sou programador Front End JR 👨‍💻
+#   Opaaa, tudo bem ? Me chamo Carlos Varão e sou programador Front End JR 👨‍💻
 
 Conhecimentos nas linguagens;
 
