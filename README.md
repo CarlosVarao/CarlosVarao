@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CAD1D9&size=35&center=true&vCenter=true&width=1000&lines=OPAAAA,+MEU+NOME+É+CARLOS+VARÃO!!;E+SOU+DESENVOLVERDOR+FRONT-END.)](https://git.io/typing-svg)
-<div align="center">
-  </div>
+
 <div align=center style="display: inline_block">
 <h1 align="center">CONHECIMENTOS NAS LINGUAGENS</h1>
 
