@@ -10,10 +10,17 @@
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -Java   Script
   <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> - Type    Script
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> - React
+  <img align="center" alt="Carlos-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> - NodeJs
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -         Python
+  <img align="center" alt="Carlos-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> - Git
 </div><br><br>
  
+ 
+  
 <div align="center">
 <p align="centre"><b>VISITORS COUNT</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosVarao}/count.svg"/></p> 
 </div>
+
+
+
