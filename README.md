@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/CarlosVarao">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CarlosVarao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVarao&layout=compact&langs_count=7&theme=dark"/></div><br>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CarlosVarao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVarao&layout=compact&langs_count=7&theme=tokyonight"/></div><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&size=35&center=true&vCenter=true&width=1000&lines=KNOWLEDGE+IN+LANGUAGES)](https://git.io/typing-svg)
 
