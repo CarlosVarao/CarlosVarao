@@ -36,4 +36,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosVarao}/count.svg"/></p> 
 </div>
 
-
+[![snake gif](https://github.com/CarlosVarao/CarlosVarao/blob/output/github-contribution-grid-snake.svg)
