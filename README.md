@@ -2,6 +2,11 @@
   <h1 align="center"> Hiii, how are you? My name is Carlos Varão and I'm a Front End JR programmer 👨‍💻</h1><br>
 </div>
 
+<div align="center">
+  <a href="https://github.com/CarlosVarao">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosVarao&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVarao&layout=compact&langs_count=7&theme=chartreuse-dark"/></div><br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&size=35&center=true&vCenter=true&width=1000&lines=KNOWLEDGE+IN+LANGUAGES)](https://git.io/typing-svg)
 
 <div align="center" style="display: inline_block"><br>
