@@ -19,9 +19,17 @@
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -         Python
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> - Git
 </div><br><br>
- <a href="https://www.linkedin.com/in/carlos-varão-front-end/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />  
  
- ##
+##  
+ 
+<div align="center"> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carlos-varão-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
+</div>  
+  
   
 <br><div align="center">
 <p align="center"><b>VISITORS COUNT</b></p>  
