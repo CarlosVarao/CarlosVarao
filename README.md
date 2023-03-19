@@ -30,8 +30,10 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
 </div>  
   
-  
 <br><div align="center">
 <p align="center"><b>VISITORS COUNT</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosVarao}/count.svg"/></p> 
 </div>
+  
+ 
+ 
