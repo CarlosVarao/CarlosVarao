@@ -19,10 +19,11 @@
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -         Python
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> - Git
 </div><br><br>
+ <a href="https://www.linkedin.com/in/carlos-varão-front-end/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
- 
+ ##
   
-<div align="center">
+<br><div align="center">
 <p align="center"><b>VISITORS COUNT</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosVarao}/count.svg"/></p> 
 </div>
