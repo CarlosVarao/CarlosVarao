@@ -19,7 +19,7 @@
   
   <br><img align="center" alt="Carlos-tailwind" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> - Tailwind
   <img align="center" alt="Carlos-NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/> - NodeJs
-  <img align="center" alt="Carlos-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> - MySql
+  <img align="center" alt="Carlos-mysql" height="33" width="43" src="https://skillicons.dev/icons?i=mysql"/> - MySql
   <img align="center" alt="Carlos-vscode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode"/> - VsCode
   <img align="center" alt="Carlos-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/> - Git
   <img align="center" alt="Carlos-figma" height="30" width="40" src="https://skillicons.dev/icons?i=figma"/> - Figma
