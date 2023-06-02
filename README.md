@@ -17,10 +17,9 @@
   <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/> - Type    Script
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> - React
   <img align="center" alt="Carlos-next.js" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"/> - NextJs
-
-  <br><img align="center" alt="Carlos-tailwind" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> - Tailwind
+  <img align="center" alt="Carlos-tailwind" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> - Tailwind
   <img align="center" alt="Carlos-NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/> - NodeJs
-  <img align="center" alt="Carlos-mysql" height="33" width="43" src="https://skillicons.dev/icons?i=mysql"/> - MySql
+  <br><br><img align="center" alt="Carlos-mysql" height="33" width="43" src="https://skillicons.dev/icons?i=mysql"/> - MySql
   <img align="center" alt="Carlos-vscode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode"/> - VsCode
   <img align="center" alt="Carlos-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/> - Git
   <img align="center" alt="Carlos-figma" height="30" width="40" src="https://skillicons.dev/icons?i=figma"/> - Figma
