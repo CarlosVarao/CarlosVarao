@@ -19,7 +19,6 @@
   <img align="center" alt="Carlos-tailwind" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> - Tailwind
   <img align="center" alt="Carlos-Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=bootstrap"/> - Bootstrap
   <img align="center" alt="Carlos-Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=sass"/> - Sass
-  
   <br><img align="center" alt="Carlos-NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/> - Node.Js
   <img align="center" alt="Carlos-mysql" height="33" width="43" src="https://skillicons.dev/icons?i=mysql"/> - MySql
   <img align="center" alt="Carlos-vscode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode"/> - VsCode
