@@ -15,8 +15,9 @@
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> -Java   Script
   <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/> - Type    Script
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> - React 
- 
-  <br><img align="center" alt="Carlos-next.js" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"/> - Next.Js
+  <img align="center" alt="Carlos-Vite" height="30" width="40" src="https://skillicons.dev/icons?i=vite"/> - Vite 
+  <br>
+  <img align="center" alt="Carlos-next.js" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"/> - Next.Js
   <img align="center" alt="Carlos-tailwind" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> - Tailwind 
   <img align="center" alt="Carlos-Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=bootstrap"/> - Bootstrap
   <img align="center" alt="Carlos-Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=sass"/> - Sass
