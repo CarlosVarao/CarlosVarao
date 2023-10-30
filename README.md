@@ -5,28 +5,39 @@
 <div align="center">
   <a href="https://github.com/CarlosVarao">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CarlosVarao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVarao&layout=compact&langs_count=7&theme=github_dark"/></div><br>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVarao&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+    
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&size=35&center=true&vCenter=true&width=1000&lines=KNOWLEDGE+IN+LANGUAGES)](https://git.io/typing-svg)
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> - Html
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> - CSS
-  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> -Java   Script
-  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/> - Type    Script
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> - React 
-  <img align="center" alt="Carlos-Vite" height="30" width="40" src="https://skillicons.dev/icons?i=vite"/> - Vite 
+## 
+
+<div align="left" style="display: inline_block">
+  <h3># Back-End</h3>
   <br>
-  <img align="center" alt="Carlos-next.js" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"/> - Next.Js
-  <img align="center" alt="Carlos-tailwind" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> - Tailwind 
-  <img align="center" alt="Carlos-Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=bootstrap"/> - Bootstrap
-  <img align="center" alt="Carlos-Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=sass"/> - Sass
-  <img align="center" alt="Carlos-NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/> - Node.Js
-  <img align="center" alt="Carlos-mysql" height="33" width="43" src="https://skillicons.dev/icons?i=mysql"/> - MySql
-  
-  <img align="center" alt="Carlos-vscode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode"/> - VsCode
-  <img align="center" alt="Carlos-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/> - Git
-  <img align="center" alt="Carlos-figma" height="30" width="40" src="https://skillicons.dev/icons?i=figma"/> - Figma
+  <img align="center" alt="Carlos-Delphi" height="" width="" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/> - Delphi &nbsp
+  <img align="center" alt="Carlos-Oracle" height="" width="" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> - Oracle &nbsp
+  <img align="center" alt="Carlos-postgres" height="" width="" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> - postgres &nbsp
+  <img align="center" alt="Carlos-MySql" height="" width="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> - MySql &nbsp
+  <img align="center" alt="Carlos-VsCode" height="" width="" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> - VsCode &nbsp
+  <br>
+  <br>
+  <div align="center" style="display: inline_block">  
+    <img align="center" alt="Carlos-Git" height="" width="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> - Git &nbsp
+  </div>  
+</div>
+
+<div align="left" style="display: inline_block">
+  <h3># Front-End</h3>
+  <br>
+  <img align="center" alt="Carlos-Html" height="" width="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> - Html &nbsp
+  <img align="center" alt="Carlos-CSS" height="" width="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> - CSS &nbsp
+  <img align="center" alt="Carlos-JavaScript" height="" width="" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> - Java Script &nbsp
+  <img align="center" alt="Carlos-Bootstrap" height="" width="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> - Bootstrap &nbsp
+  <img align="center" alt="Carlos-Sass" height="" width="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> - Sass &nbsp
+  <img align="center" alt="Carlos-Figma" height="" width="" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/> - Figma &nbsp
 </div><br>
   
 <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />  
