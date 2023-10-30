@@ -12,6 +12,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&size=35&center=true&vCenter=true&width=1000&lines=KNOWLEDGE+IN+LANGUAGES)](https://git.io/typing-svg)
 
+##
+
 <div align="left" style="display: inline_block">
   <h3># Back-End</h3>
   <br>
@@ -33,6 +35,8 @@
   <img align="center" alt="Carlos-Sass" height="" width="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> - Sass &nbsp
   <img align="center" alt="Carlos-Figma" height="" width="" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/> - Figma &nbsp
 </div><br>
+
+##
   
 <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />  
  
