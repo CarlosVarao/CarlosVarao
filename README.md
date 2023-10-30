@@ -20,7 +20,7 @@
   <img align="center" alt="Carlos-Delphi" height="" width="" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/> - Delphi &nbsp
   <img align="center" alt="Carlos-Oracle" height="" width="" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> - Oracle &nbsp
   <img align="center" alt="Carlos-postgres" height="" width="" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> - postgres &nbsp
-  <img align="center" alt="Carlos-MySql" height="" width="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> - MySql &nbsp
+  <img align="center" alt="Carlos-MySql" height="" width="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> - MySql &nbsp <br><br>
   <img align="center" alt="Carlos-VsCode" height="" width="" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> - VsCode &nbsp
   <img align="center" alt="Carlos-Git" height="" width="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> - Git &nbsp
 </div>
@@ -32,7 +32,7 @@
   <img align="center" alt="Carlos-CSS" height="" width="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> - CSS &nbsp
   <img align="center" alt="Carlos-JavaScript" height="" width="" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> - Java Script &nbsp
   <img align="center" alt="Carlos-Bootstrap" height="" width="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> - Bootstrap &nbsp
-  <img align="center" alt="Carlos-Sass" height="" width="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> - Sass &nbsp
+  <img align="center" alt="Carlos-Sass" height="" width="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> - Sass &nbsp <br><br>
   <img align="center" alt="Carlos-Figma" height="" width="" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/> - Figma &nbsp
 </div><br>
 
