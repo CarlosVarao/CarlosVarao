@@ -18,7 +18,7 @@
   <h3># Back-End</h3>
 </div>
 
-- <p> Área de atuação profissional 👨‍💻 </p><
+- <p> Área de atuação profissional 👨‍💻 </p>
 
 <div align="left" style="display: inline_block">
   <img align="center" alt="Carlos-Delphi" height="" width="" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"/> - Delphi &nbsp
