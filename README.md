@@ -22,11 +22,7 @@
   <img align="center" alt="Carlos-postgres" height="" width="" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> - postgres &nbsp
   <img align="center" alt="Carlos-MySql" height="" width="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> - MySql &nbsp
   <img align="center" alt="Carlos-VsCode" height="" width="" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> - VsCode &nbsp
-  <br>
-  <br>
-  <div align="center" style="display: inline_block">  
-    <img align="center" alt="Carlos-Git" height="" width="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> - Git &nbsp
-  </div>  
+  <img align="center" alt="Carlos-Git" height="" width="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> - Git &nbsp
 </div>
 
 <div align="left" style="display: inline_block">
