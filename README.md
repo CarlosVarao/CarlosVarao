@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"> Hiii, how are you? My name is Carlos Varão and I'm a Front End JR programmer 👨‍💻</h1><br>
+  <h1 align="center"> Hi, how are you? My name is Carlos Varão and I am a Delphi JR programmer 👨‍💻</h1><br>
 </div>
 
 <div align="center">
