@@ -16,8 +16,12 @@
 
 <div align="left" style="display: inline_block">
   <h3># Back-End</h3>
-  <br>
-  <img align="center" alt="Carlos-Delphi" height="" width="" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/> - Delphi &nbsp
+</div>
+
+- <p> Área de atuação profissional 👨‍💻 </p><br>
+
+<div align="left" style="display: inline_block">
+  <img align="center" alt="Carlos-Delphi" height="" width="" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"/> - Delphi &nbsp
   <img align="center" alt="Carlos-Oracle" height="" width="" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> - Oracle &nbsp
   <img align="center" alt="Carlos-postgres" height="" width="" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> - postgres &nbsp
   <img align="center" alt="Carlos-MySql" height="" width="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> - MySql &nbsp <br><br>
@@ -27,10 +31,15 @@
 
 <div align="left" style="display: inline_block">
   <h3># Front-End</h3>
-  <br>
+</div>
+
+- <p> Estudando as seguintes linguagens para aplicações web 📝 </p><br>
+
+<div align="left" style="display: inline_block">
   <img align="center" alt="Carlos-Html" height="" width="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> - Html &nbsp
   <img align="center" alt="Carlos-CSS" height="" width="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> - CSS &nbsp
   <img align="center" alt="Carlos-JavaScript" height="" width="" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> - Java Script &nbsp
+  <img align="center" alt="Carlos-React" height="" width="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> - React &nbsp
   <img align="center" alt="Carlos-Bootstrap" height="" width="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> - Bootstrap &nbsp
   <img align="center" alt="Carlos-Sass" height="" width="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> - Sass &nbsp <br><br>
   <img align="center" alt="Carlos-Figma" height="" width="" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/> - Figma &nbsp
