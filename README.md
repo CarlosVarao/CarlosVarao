@@ -7,7 +7,8 @@
 
 Sou Carlos Varão, Analista de Sistemas Sênior.<br>
 Atualmente, atuo no desenvolvimento, controle e melhorias dos projetos de sistemas da empresa.<br>
-Tenho experiência sólida na área, contribuindo para a melhoria e manutenção de processos internos e soluções tecnológicas.
+Tenho experiência sólida na área, contribuindo para a melhoria e manutenção de processos internos e soluções tecnológicas.<br>
+Sou apaixonado por tecnologia e aprendizado contínuo, buscando sempre aplicar as melhores práticas e soluções eficientes.
 
 </p>
 
@@ -66,7 +67,24 @@ Tenho experiência sólida na área, contribuindo para a melhoria e manutenção
   <img src="https://skillicons.dev/icons?i=ps" height="33" alt="Photoshop" style="margin-left:10px" />
 </div>
 
-<br>
+</div>
+
+---
+
+<!-- Projetos em destaque -->
+<p align="left">
+
+### 📂 Projetos em destaque
+
+Aqui alguns dos meus projetos no GitHub que representam bem minhas habilidades e interesses:
+
+- 🔹 **[Nome do Projeto 1](https://github.com/CarlosVarao/nomedoprojeto1)** – breve descrição do projeto e tecnologias usadas.  
+- 🔹 **[Nome do Projeto 2](https://github.com/CarlosVarao/nomedoprojeto2)** – breve descrição do projeto e tecnologias usadas.  
+- 🔹 *(Adicione mais aqui com links reais e descrições)*
+
+</p>
+
+---
 
 <!-- GitHub Stats lado a lado -->
 <div align="center">
@@ -74,9 +92,9 @@ Tenho experiência sólida na área, contribuindo para a melhoria e manutenção
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosVarao&layout=compact&langs_count=5&theme=gotham&locale=pt-br" height="150" alt="Top Languages" style="margin-left:15px" />
 </div>
 
-<br>
+---
 
-<!-- Ícones de contato centralizados -->
+<!-- Contato -->
 <div align="center">
   <a href="https://linkedin.com/in/carlosvaraofrontend" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
@@ -91,7 +109,7 @@ Tenho experiência sólida na área, contribuindo para a melhoria e manutenção
 
 ---
 
-<!-- Pacman contribution graph (responde ao modo dark/light) -->
+<!-- Pacman contribution graph (modo dark/light) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosVarao/CarlosVarao/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosVarao/CarlosVarao/output/pacman-contribution-graph.svg" />
