@@ -5,13 +5,13 @@
 <!-- Ícones de contato centralizados -->
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://linkedin.com/in/carlosvaraofrontend" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
   <a href="mailto:carlosvarao.frontend@hotmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&color=0078D4&logoColor=white&style=for-the-badge" height="30" alt="Outlook Email" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30" alt="Outlook Email" />
   </a>
   <a href="https://discord.gg/seulink" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord" />
   </a>
 </div>
 
@@ -60,31 +60,34 @@ Tenho experiência sólida na área, contribuindo para a melhoria e manutenção
 
 ---
 
-<!-- GIF alinhado à direita -->
-<p align="right">
-  <img src="https://i.imgflip.com/a0fr04.gif" alt="coding gif" height="210" />
-</p>
-
----
-
 <!-- Tecnologias (icons inline centralizados) -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" alt="CSS3" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="JavaScript" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="33" alt="TypeScript" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="React" style="margin-left:10px" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="33" alt="Tailwind CSS" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="33" alt="Bootstrap" style="margin-left:10px" />
-  <img src="https://skillicons.dev/icons?i=express" height="33" alt="Express" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" alt="Node.js" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="Python" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="33" alt="npm" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="MySQL" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="33" alt="SQL Server" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="33" alt="VSCode" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="33" alt="Figma" style="margin-left:10px" />
-  <img src="https://skillicons.dev/icons?i=ps" height="33" alt="Photoshop" style="margin-left:10px" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; margin: 30px 0; flex-wrap: nowrap; min-height: 210px;">
+
+  <!-- Tecnologias (icons) -->
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; max-width: 70vw; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="33" alt="TypeScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="React" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="33" alt="Tailwind CSS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="33" alt="Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=express" height="33" alt="Express" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="33" alt="npm" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="MySQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="33" alt="SQL Server" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="33" alt="VSCode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="33" alt="Figma" />
+    <img src="https://skillicons.dev/icons?i=ps" height="33" alt="Photoshop" />
+  </div>
+
+  <!-- GIF do gatinho -->
+  <div>
+    <img src="https://i.imgflip.com/a0fr04.gif" alt="coding gif" height="210" style="border-radius: 10px;" />
+  </div>
+
 </div>
 
 ---
