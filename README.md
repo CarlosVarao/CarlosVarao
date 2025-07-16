@@ -6,7 +6,7 @@
 ### 🧠 Sobre mim
 
 Sou Carlos Varão, Analista de Sistemas Sênior.<br>
-Atualmente, atuo no desenvolvimento, controle e melhorias dos projetos de sistemas da empresa.<br>
+Atualmente, atuo no desenvolvimento, controle e melhorias dos projetos de sistemas de empresa.<br>
 Tenho experiência sólida na área, contribuindo para a melhoria e manutenção de processos internos e soluções tecnológicas.<br>
 Sou apaixonado por tecnologia e aprendizado contínuo, buscando sempre aplicar as melhores práticas e soluções eficientes.
 
