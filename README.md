@@ -59,28 +59,38 @@ Aqui alguns dos meus projetos no GitHub que representam bem minhas habilidades e
 -->
 
 <!-- Tecnologias (icons inline centralizados) -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px; margin: 30px 0; flex-wrap: nowrap; min-height: 210px;">
-
-  <!-- Tecnologias (icons) -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" alt="CSS3" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="JavaScript" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="33" alt="TypeScript" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="React" style="margin-left:10px" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="33" alt="Tailwind CSS" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="33" alt="Bootstrap" style="margin-left:10px" />
-  <img src="https://skillicons.dev/icons?i=express" height="33" alt="Express" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" alt="Node.js" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="Python" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="33" alt="npm" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="MySQL" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="33" alt="SQL Server" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="33" alt="VSCode" style="margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="33" alt="Figma" style="margin-left:10px" />
-  <img src="https://skillicons.dev/icons?i=ps" height="33" alt="Photoshop" style="margin-left:10px" />
-</div>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="33" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="33" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="33" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="33" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="33" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="33" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" height="33" alt="express logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="33" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="33" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="33" alt="npm logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="33" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="33" alt="microsoftsqlserver logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="33" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="33" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ps" height="33" alt="adobephotoshop logo"  />
 </div>
 
 <br>
@@ -110,7 +120,8 @@ Aqui alguns dos meus projetos no GitHub que representam bem minhas habilidades e
 
 <!-- Pacman contribution graph (modo dark/light) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosVarao/CarlosVarao/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosVarao/CarlosVarao/output/pacman-contribution-graph.svg" />
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/CarlosVarao/CarlosVarao/output/pacman-contribution-graph.svg" style="display: block; margin: 20px auto;" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+
