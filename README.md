@@ -1,59 +1,72 @@
-<div>
-  <h1 align="center"> Hi, how are you? My name is Carlos Varão and I am a Delphi JR programmer 👨‍💻</h1><br>
-</div>
+<h1 align="center">👋 Olá! Eu sou o Carlos Varão</h1>
+
+###
+
+<br clear="both">
 
 <div align="center">
-  <a href="https://github.com/CarlosVarao">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CarlosVarao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVarao&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-    
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&size=35&center=true&vCenter=true&width=1000&lines=KNOWLEDGE+IN+LANGUAGES)](https://git.io/typing-svg)
-
-##
-
-<div align="left" style="display: inline_block">
-  <h3># Back-End</h3>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
-- <p> Área de atuação profissional 👨‍💻 </p>
+###
 
-<div align="left" style="display: inline_block">
-  <img align="center" alt="Carlos-Delphi" height="" width="" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"/> - Delphi &nbsp
-  <img align="center" alt="Carlos-Oracle" height="" width="" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> - Oracle &nbsp
-  <img align="center" alt="Carlos-postgres" height="" width="" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> - postgres &nbsp
-  <img align="center" alt="Carlos-MySql" height="" width="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> - MySql &nbsp <br><br>
-  <img align="center" alt="Carlos-VsCode" height="" width="" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> - VsCode &nbsp
-  <img align="center" alt="Carlos-Git" height="" width="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> - Git &nbsp
+<p align="left">🧠 Sobre mim<br><br>Sou Carlos Oliveira Varão, Analista de Sistemas.<br>Atualmente, atuo no desenvolvimento, controle e melhorias dos projetos de sistemas da empresa.<br>Tenho experiência sólida na área, contribuindo para a melhoria e manutenção de processos internos e soluções tecnológicas.<br><br><br>💼 O que me define como profissional<br><br>👨‍💻 Conhecimentos em Power BI para análise e visualização de dados<br>🎨 Experiência em design com Figma e Photoshop, ampliando a visão para interfaces intuitivas<br>🔌 Atuação com consumo e integração de APIs REST<br>🧠 Sólidos conhecimentos em banco de dados SQL Server e automações em Python<br>🛠️ Vivência prática com ERP SAP e desenvolvimento em Delphi<br>🤝 Trabalho em equipe, excelente comunicação e experiência em liderança de times com níveis técnicos diversos<br>🚀 Foco constante em aprendizado contínuo e aplicação de boas práticas<br><br><br>🌱 Atualmente...<br><br>🎓 Cursando Engenharia de Software<br>⚙️ Aprofundando estudos em Front-end (React, TypeScript), Node.js e arquitetura de sistemas<br>💻 Desenvolvendo projetos pessoais e colaborativos no GitHub</p>
+
+###
+
+<img align="right" height="210" src="https://i.imgflip.com/a0fr04.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosVarao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosVarao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div align="left" style="display: inline_block">
-  <h3># Front-End</h3>
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="33" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="react logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="33" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="33" alt="bootstrap logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=express" height="33" alt="express logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="python logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="33" alt="npm logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="33" alt="microsoftsqlserver logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="33" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="33" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ps" height="33" alt="adobephotoshop logo"  />
 </div>
 
-- <p> Estudando as seguintes linguagens para aplicações web 📝 </p>
+###
 
-<div align="left" style="display: inline_block">
-  <img align="center" alt="Carlos-Html" height="" width="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> - Html &nbsp
-  <img align="center" alt="Carlos-CSS" height="" width="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> - CSS &nbsp
-  <img align="center" alt="Carlos-JavaScript" height="" width="" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> - Java Script &nbsp
-  <img align="center" alt="Carlos-React" height="" width="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> - React &nbsp
-  <img align="center" alt="Carlos-Bootstrap" height="" width="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> - Bootstrap &nbsp <br><br>
-  <img align="center" alt="Carlos-Sass" height="" width="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> - Sass &nbsp 
-  <img align="center" alt="Carlos-Figma" height="" width="" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/> - Figma &nbsp
-</div><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosVarao/CarlosVarao/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosVarao/CarlosVarao/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CarlosVarao/CarlosVarao/output/pacman-contribution-graph.svg">
+</picture>
 
-##
-  
-<img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />  
- 
-<br><div align="center"> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/carlos-varão-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   <a href="https://carlosvarao.github.io/Portfolio/" target="_blank" ><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
-  
-</div>  
-<br><div align="center">
-<p align="center"><b>VISITORS COUNT</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosVarao}/count.svg"/></p> 
-</div>
+###
