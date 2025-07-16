@@ -44,6 +44,20 @@ Sou apaixonado por tecnologia e aprendizado contínuo, buscando sempre aplicar a
 
 ---
 
+<!-- 
+<p align="left">
+
+### 📂 Projetos em destaque
+
+Aqui alguns dos meus projetos no GitHub que representam bem minhas habilidades e interesses:
+
+- 🔹 **[Nome do Projeto 1](https://github.com/CarlosVarao/nomedoprojeto1)** – breve descrição do projeto e tecnologias usadas.  
+- 🔹 **[Nome do Projeto 2](https://github.com/CarlosVarao/nomedoprojeto2)** – breve descrição do projeto e tecnologias usadas.  
+- 🔹 *(Adicione mais aqui com links reais e descrições)*
+
+</p>
+-->
+
 <!-- Tecnologias (icons inline centralizados) -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 40px; margin: 30px 0; flex-wrap: nowrap; min-height: 210px;">
 
@@ -69,22 +83,7 @@ Sou apaixonado por tecnologia e aprendizado contínuo, buscando sempre aplicar a
 
 </div>
 
----
-
-<!-- Projetos em destaque -->
-<p align="left">
-
-### 📂 Projetos em destaque
-
-Aqui alguns dos meus projetos no GitHub que representam bem minhas habilidades e interesses:
-
-- 🔹 **[Nome do Projeto 1](https://github.com/CarlosVarao/nomedoprojeto1)** – breve descrição do projeto e tecnologias usadas.  
-- 🔹 **[Nome do Projeto 2](https://github.com/CarlosVarao/nomedoprojeto2)** – breve descrição do projeto e tecnologias usadas.  
-- 🔹 *(Adicione mais aqui com links reais e descrições)*
-
-</p>
-
----
+<br>
 
 <!-- GitHub Stats lado a lado -->
 <div align="center">
@@ -92,7 +91,7 @@ Aqui alguns dos meus projetos no GitHub que representam bem minhas habilidades e
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosVarao&layout=compact&langs_count=5&theme=gotham&locale=pt-br" height="150" alt="Top Languages" style="margin-left:15px" />
 </div>
 
----
+<br>
 
 <!-- Contato -->
 <div align="center">
