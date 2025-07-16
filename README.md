@@ -1,22 +1,5 @@
 <h1 align="center">👋 Seja bem-vindo ao meu GitHub!</h1>
 
-<br>
-
-<!-- Ícones de contato centralizados -->
-<div align="center">
-  <a href="https://linkedin.com/in/carlosvaraofrontend" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
-  </a>
-  <a href="mailto:carlosvarao.frontend@hotmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30" alt="Outlook Email" />
-  </a>
-  <a href="https://discord.gg/seulink" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord" />
-  </a>
-</div>
-
----
-
 <!-- Sobre mim -->
 <p align="left">
   
@@ -81,13 +64,29 @@ Tenho experiência sólida na área, contribuindo para a melhoria e manutenção
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="33" alt="VSCode" style="margin-left:10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="33" alt="Figma" style="margin-left:10px" />
   <img src="https://skillicons.dev/icons?i=ps" height="33" alt="Photoshop" style="margin-left:10px" />
-</div><br>
+</div>
 
+<br>
 
 <!-- GitHub Stats lado a lado -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CarlosVarao&show_icons=true&theme=gotham&locale=en" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosVarao&layout=compact&langs_count=5&theme=gotham&locale=pt-br" height="150" alt="Top Languages" style="margin-left:15px" />
+</div>
+
+<br>
+
+<!-- Ícones de contato centralizados -->
+<div align="center">
+  <a href="https://linkedin.com/in/carlosvaraofrontend" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+  </a>
+  <a href="mailto:carlosvarao.frontend@hotmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30" alt="Outlook Email" />
+  </a>
+  <a href="https://discord.gg/seulink" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord" />
+  </a>
 </div>
 
 ---
